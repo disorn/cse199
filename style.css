@@ -26,6 +26,7 @@
     main {
       overflow:auto;
       font-size: 20px;
+      padding-left: 20px;
     }
     aside {
       float:right;
