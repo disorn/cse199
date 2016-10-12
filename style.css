@@ -1,7 +1,7 @@
  header {
     border: 9px solid #901;
     padding: 30px 35px 70px 30px;
-    background-color: green;
+    background-color: burlywood;
     }
   
    head {
@@ -15,12 +15,12 @@
     font-size:300%;
     font-family: Times, sans-serif;
     color: green;
-    
+    padding-top: 20px;
     }
     
     
     body {
-    background-color: #b0c4de;
+    background-color: aquamarine;
     }
     
     main {
