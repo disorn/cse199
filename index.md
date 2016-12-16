@@ -1,14 +1,17 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Welcome to My Website.
+Hi my name is Disorn Kwunchaithanya. I am a Thai-American. I currently am a freshman at the University of Buffalo. I am a Computer Science major, in which I love to code and make software. I also love to do some side design work on the side.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### League Of Legends
+My main charcter in League of Legends is Katarina. She is an Assassin and also Mage who excels in eliminating weak champions the quickest way possible.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### In High School
+I went to high school at Queens Vocational and Technical High School. There I was a Graphic Design major working on nice designs and posters. I was also doing some coding on the side like HTML, CSS, and JavaScript
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### More Info
+Full Name: Disorn Kwunchaithanya
+Nickname: Mikey
+Age: 18
+Nationality: Thai-American
+Hometown: Elmhurst, NY (NYC)
+Height 5' 11"
+Favorite Cusines: Thai, Chinese, Japanese
